@@ -1,1 +1,1 @@
-//patch.obex<vip><mvp>function="receive"function="free"
+patch.obex<vip><mvp>function="receive"function="free"
